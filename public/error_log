@@ -1,0 +1,2 @@
+[24-Apr-2018 16:44:54 UTC] PHP Warning:  require(/home/actus/public_sub/aqua/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/actus/public_sub/aqua/bootstrap/autoload.php on line 17
+[24-Apr-2018 16:44:54 UTC] PHP Fatal error:  require(): Failed opening required '/home/actus/public_sub/aqua/bootstrap/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/actus/public_sub/aqua/bootstrap/autoload.php on line 17
